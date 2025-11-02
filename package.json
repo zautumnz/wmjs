@@ -3,9 +3,7 @@
   "description": "[WIP] Tiling X window manager in Node",
   "version": "0.9.1",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -16,12 +14,12 @@
     "test": "npm run test:lint",
     "test:lint": "standard"
   },
-  "homepage": "https://github.com/zacanger/wmjs#readme",
+  "homepage": "https://github.com/zautumnz/wmjs#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/wmjs.git"
+    "url": "https://github.com/zautumnz/wmjs.git"
   },
-  "bugs": "https://github.com/zacanger/wmjs/issues",
+  "bugs": "https://github.com/zautumnz/wmjs/issues",
   "keywords": [
     "manager",
     "window",
